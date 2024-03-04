@@ -1,0 +1,1 @@
+# bitrise-step-default-offer-manager-fetcher
